@@ -1,0 +1,1 @@
+Built-in image_gen edit. Prompt: Remove all left-side text and typographic decorations; seamlessly reconstruct pale blue background. Preserve right-side blue/orange 3D sculpture, pedestal and orbit lines, original composition and colors. No new text or objects. Source: 项目/同阅防扩散系统/27.png. Original source unchanged.

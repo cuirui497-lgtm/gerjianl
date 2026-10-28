@@ -1,0 +1,4 @@
+Tool: built-in image_gen.
+Base edit: Remove only floating glass tiles around S sculpture; reconstruct underlying scene and preserve wide composition, sculpture, platform and lighting.
+Tile sprite: Isolated translucent blue-gray glass rectangular tile, beveled white edge, slight 3D perspective, transparent background, no text or scene.
+Outputs: hero-platform-base.png and glass-tile.png. Original source unchanged.
